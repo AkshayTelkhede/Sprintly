@@ -1,4 +1,4 @@
-# 🏃 Sprintly
+#  Sprintly
 
 **Streamline Your Workflow with Sprintly**  
 Empower your team with our intuitive, full-stack project management solution tailored for modern software teams.
@@ -7,46 +7,46 @@ Sprintly simplifies how you manage tasks, sprints, and organizations. Whether yo
 
 ---
 
-### 🔗 Live Demo
+###  Live Demo
 [Check it out here](https://sprintly-delta.vercel.app/)
 
 -----
 
-### 🎥 Recorded Demo Video
+###  Recorded Demo Video
 [Watch the demo](https://drive.google.com/drive/folders/1eKLu9DcZhR5Dd6UfrprsHXPhtDv4D3pP?usp=sharing)
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🏢 Create and manage multiple **Organizations**
-- 📁 Each organization can handle **multiple Projects**
-- 🔄 Projects are divided into **Sprints** for better planning and iteration
-- 📝 Inside each sprint, create and manage issues across four categories:
-  - ✅ Todo
-  - 🚧 In Progress
-  - 🕵️ In Review
-  - ✔️ Done
-- 🧩 **Kanban Board** with drag-and-drop functionality for smooth task management
-- 👥 User authentication with Clerk (Sign in / Sign up / Onboarding)
-- 🌗 Clean, responsive, and accessible UI with **Dark Mode** support
-- 📊 Scalable data management with PostgreSQL on **NeonDB**
-- 📦 Optimized state handling with built-in server actions (Next.js App Router)
-- ⚡ Blazing fast and modern UI with **Shadcn UI** + **Tailwind CSS**
+-  Create and manage multiple **Organizations**
+-  Each organization can handle **multiple Projects**
+-  Projects are divided into **Sprints** for better planning and iteration
+-  Inside each sprint, create and manage issues across four categories:
+  -  Todo
+  -  In Progress
+  -  In Review
+  -  Done
+-  **Kanban Board** with drag-and-drop functionality for smooth task management
+-  User authentication with Clerk (Sign in / Sign up / Onboarding)
+-  Clean, responsive, and accessible UI with **Dark Mode** support
+-  Scalable data management with PostgreSQL on **NeonDB**
+-  Optimized state handling with built-in server actions (Next.js App Router)
+-  Blazing fast and modern UI with **Shadcn UI** + **Tailwind CSS**
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Frontend:** React.js, Next.js (App Router), Tailwind CSS, Shadcn UI  
 - **Backend:** Next.js Server Actions  
 - **Authentication:** Clerk  
 - **Database:** PostgreSQL via NeonDB  
-- **Deployment:** Vercel / Your preferred platform
+- **Deployment:** Vercel 
 
 ---
 
-## 🔐 Environment Variables
+##  Environment Variables
 
 Create a `.env.local` file in the root and add the following:
 
@@ -67,7 +67,7 @@ NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=""
 
 ---
 
-## 🙌 Contributing
+##  Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
@@ -79,5 +79,5 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 
-### 🎨 Designed and built by [**Akshay Telkhede**](https://github.com/AkshayTelkhede)
+###  Designed and built by [**Akshay Telkhede**](https://github.com/AkshayTelkhede)
 
