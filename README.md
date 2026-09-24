@@ -8,7 +8,7 @@ Sprintly simplifies how you manage tasks, sprints, and organizations. Whether yo
 ---
 
 ### 🔗 Live Demo
-[Check it out here]()
+[Check it out here](https://sprintly-delta.vercel.app/)
 
 -----
 
